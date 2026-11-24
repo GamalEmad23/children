@@ -1,0 +1,59 @@
+# Photo credits
+
+Images are from Wikimedia Commons. Each source is licensed individually; verify its terms before redistribution.
+
+- **Airplane** — [File:A beautiful sunset with the silhoutte of an airplane flying across the image frame.jpg](https://commons.wikimedia.org/wiki/File:A_beautiful_sunset_with_the_silhoutte_of_an_airplane_flying_across_the_image_frame.jpg) by Subhrajyoti07; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Apple** — [File:Red Apple.jpg](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg) by Abhijit Tembhekar from Mumbai, India; CC BY 2.0 ([license](https://creativecommons.org/licenses/by/2.0))
+- **Ball** — [File:Adidas soccer ball on a grass pitch (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg) by Peter Glaser baraida; CC0 ([license](http://creativecommons.org/publicdomain/zero/1.0/deed.en))
+- **Banana** — [File:Cavendish banana from Maracaibo.jpg](https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg) by Wilfredor; CC BY-SA 3.0 ([license](https://creativecommons.org/licenses/by-sa/3.0))
+- **Bear** — [File:Kamchatka Brown Bear near Dvuhyurtochnoe on 2015-07-23.jpg](https://commons.wikimedia.org/wiki/File:Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg) by Robert F. Tobler; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Bee** — [File:Bee in Loto in Botanical Garden of São Paulo.jpg](https://commons.wikimedia.org/wiki/File:Bee_in_Loto_in_Botanical_Garden_of_S%C3%A3o_Paulo.jpg) by Wilfredor; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Book** — [File:Newtons cradle animation book.gif](https://commons.wikimedia.org/wiki/File:Newtons_cradle_animation_book.gif) by DemonDeLuxe (Dominique Toussaint); CC BY-SA 3.0 ([license](http://creativecommons.org/licenses/by-sa/3.0/))
+- **Bread** — [File:Home made sour dough bread.jpg](https://commons.wikimedia.org/wiki/File:Home_made_sour_dough_bread.jpg) by Tomascastelazo; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Butterfly** — [File:Common brimstone butterfly (Gonepteryx rhamni) male.jpg](https://commons.wikimedia.org/wiki/File:Common_brimstone_butterfly_(Gonepteryx_rhamni)_male.jpg) by Charles J. Sharp; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Camel** — [File:07. Camel Profile, near Silverton, NSW, 07.07.2007.jpg](https://commons.wikimedia.org/wiki/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg) by Jjron; CC BY-SA 3.0 ([license](http://creativecommons.org/licenses/by-sa/3.0/))
+- **Cat** — [File:Felis catus-cat on snow.jpg](https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg) by Von.grzanka; CC BY-SA 3.0 ([license](https://creativecommons.org/licenses/by-sa/3.0))
+- **Corn** — [File:Dent Corn 'Oaxacan Green' (Zea mays) MHNT 2.jpg](https://commons.wikimedia.org/wiki/File:Dent_Corn_%27Oaxacan_Green%27_(Zea_mays)_MHNT_2.jpg) by Didier Descouens; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Crescent moon** — [File:Waxing Crescent Moon in Kurseong September 2026 by Paramanu Sarkar.jpg](https://commons.wikimedia.org/wiki/File:Waxing_Crescent_Moon_in_Kurseong_September_2026_by_Paramanu_Sarkar.jpg) by Paramanu Sarkar; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Duck** — [File:Male mallard duck 2.jpg](https://commons.wikimedia.org/wiki/File:Male_mallard_duck_2.jpg) by Acarpentier; CC BY 3.0 ([license](https://creativecommons.org/licenses/by/3.0))
+- **Elephant** — [File:African Bush Elephant.jpg](https://commons.wikimedia.org/wiki/File:African_Bush_Elephant.jpg) by Muhammad Mahdi Karim Facebook
+
+
+The making of this document was supported by Wikimedia CH. (Submit your project!)
+For all the files concerned, please see the category Supported by Wikimedia CH.
+
+العربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙ English ∙ Esperanto ∙ español ∙ français ∙ galego ∙ हिन्दी ∙ magyar ∙ italiano ∙ 日本語 ∙ македонски ∙ Nederlands ∙ português do Brasil ∙ rumantsch ∙ русский ∙ sicilianu ∙ slovenščina ∙ தமிழ் ∙ українська ∙ 中文 ∙ +/−; GFDL 1.2 ([license](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html))
+- **Envelope** — [File:Tony Cragg - Envelope - 1996 - Middelheimmuseum 01.jpg](https://commons.wikimedia.org/wiki/File:Tony_Cragg_-_Envelope_-_1996_-_Middelheimmuseum_01.jpg) by Sandra Fauconnier; CC BY 4.0 ([license](https://creativecommons.org/licenses/by/4.0))
+- **Falcon** — [File:Amur Falcon (female) at Lonavala.jpg](https://commons.wikimedia.org/wiki/File:Amur_Falcon_(female)_at_Lonavala.jpg) by Sumeet Moghe; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Fish** — [File:Oweston sting fish for sale at Tsukiji Fishmarket, Tokyo-30.jpg](https://commons.wikimedia.org/wiki/File:Oweston_sting_fish_for_sale_at_Tsukiji_Fishmarket,_Tokyo-30.jpg) by MichaelMaggs; CC BY-SA 3.0 ([license](https://creativecommons.org/licenses/by-sa/3.0))
+- **Fox** — [File:Alaska Red Fox (Vulpes vulpes).jpg](https://commons.wikimedia.org/wiki/File:Alaska_Red_Fox_(Vulpes_vulpes).jpg) by Gregory "Slobirdr" Smith; CC BY-SA 2.0 ([license](https://creativecommons.org/licenses/by-sa/2.0))
+- **Frog** — [File:Golden-eyed tree frog (Agalychnis annae).jpg](https://commons.wikimedia.org/wiki/File:Golden-eyed_tree_frog_(Agalychnis_annae).jpg) by Charles J. Sharp; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Gazelle** — [File:Mhorr Gazelle Close Up.jpg](https://commons.wikimedia.org/wiki/File:Mhorr_Gazelle_Close_Up.jpg) by Ltshears; CC BY-SA 3.0 ([license](https://creativecommons.org/licenses/by-sa/3.0))
+- **Giraffe** — [File:Three giraffes 01.jpg](https://commons.wikimedia.org/wiki/File:Three_giraffes_01.jpg) by Byrdyak; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Grapes** — [File:Wine grapes03.jpg](https://commons.wikimedia.org/wiki/File:Wine_grapes03.jpg) by Fir0002; GFDL 1.2 ([license](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html))
+- **Hand** — [File:Hand and power stone bracelets.jpg](https://commons.wikimedia.org/wiki/File:Hand_and_power_stone_bracelets.jpg) by Tomascastelazo; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Hat** — [File:Ronald Reagan with cowboy hat 12-0071M edit.jpg](https://commons.wikimedia.org/wiki/File:Ronald_Reagan_with_cowboy_hat_12-0071M_edit.jpg) by Michael Evans; Public domain
+- **Horse** — [File:Horse December 2014-1.jpg](https://commons.wikimedia.org/wiki/File:Horse_December_2014-1.jpg) by Alvesgaspar; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Ice cream** — [File:Apple cake with vanilla ice cream 2.jpg](https://commons.wikimedia.org/wiki/File:Apple_cake_with_vanilla_ice_cream_2.jpg) by W.carter; CC0 ([license](http://creativecommons.org/publicdomain/zero/1.0/deed.en))
+- **Juice** — [File:Orange juice 1 edit1.jpg](https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg) by Agency of the United States Department of Agriculture
+Edited Version by: Arad; Public domain
+- **Kite** — [File:Kite flying on Dunstable Downs - geograph.org.uk - 72418.jpg](https://commons.wikimedia.org/wiki/File:Kite_flying_on_Dunstable_Downs_-_geograph.org.uk_-_72418.jpg) by Cathy Cox; CC BY-SA 2.0 ([license](https://creativecommons.org/licenses/by-sa/2.0))
+- **Lemon** — [File:Lemon.jpg](https://commons.wikimedia.org/wiki/File:Lemon.jpg) by André Karwath aka Aka; CC BY-SA 2.5 ([license](https://creativecommons.org/licenses/by-sa/2.5))
+- **Lion** — [File:Lion (Panthera leo) male 6y.jpg](https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_male_6y.jpg) by Charles J. Sharp; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Moon** — [File:FullMoon2010.jpg](https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg) by Gregory H. Revera; CC BY-SA 3.0 ([license](https://creativecommons.org/licenses/by-sa/3.0))
+- **Nest** — [File:Bird-nest-with-eggs-Sitia-Crete.jpg](https://commons.wikimedia.org/wiki/File:Bird-nest-with-eggs-Sitia-Crete.jpg) by Petro Stelte; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Orange** — [File:Oranges - whole-halved-segment.jpg](https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg) by Ivar Leidus; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Penguin** — [File:African penguin, Cape Town ( 1050598).jpg](https://commons.wikimedia.org/wiki/File:African_penguin,_Cape_Town_(_1050598).jpg) by Matti Blume; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Pomegranate** — [File:Pomegranate fruit - whole and piece with arils.jpg](https://commons.wikimedia.org/wiki/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg) by Ivar Leidus; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Queen** — [File:서봉총 금관 금제드리개.jpg](https://commons.wikimedia.org/wiki/File:%EC%84%9C%EB%B4%89%EC%B4%9D_%EA%B8%88%EA%B4%80_%EA%B8%88%EC%A0%9C%EB%93%9C%EB%A6%AC%EA%B0%9C.jpg) by National Museum of Korea; KOGL Type 1 ([license](http://www.kogl.or.kr/info/licenseType1.do))
+- **Rainbow** — [File:WhereRainbowRises.jpg](https://commons.wikimedia.org/wiki/File:WhereRainbowRises.jpg) by Wing-Chi Poon; CC BY-SA 2.5 ([license](https://creativecommons.org/licenses/by-sa/2.5))
+- **Rose** — [File:Rosa 'Rosengräfin Marie Henriette' (actm).jpg](https://commons.wikimedia.org/wiki/File:Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_(actm).jpg) by Agnes Monkelbaan; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Sun** — [File:Solar Orbiter’s widest high-res view of the Sun ESA508430.jpg](https://commons.wikimedia.org/wiki/File:Solar_Orbiter%E2%80%99s_widest_high-res_view_of_the_Sun_ESA508430.jpg) by European Space Agency; CC BY-SA 3.0 igo ([license](https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en))
+- **Tiger** — [File:Amur Tiger Panthera tigris altaica Eye 2112px edit.jpg](https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg) by Photo (c)2007 Derek and Julie Ramsey (Ram-Man) edit by Chris_huh.; Public domain
+- **Umbrella** — [File:The Umbrella Workshop.jpg](https://commons.wikimedia.org/wiki/File:The_Umbrella_Workshop.jpg) by Sopyaylynn; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Violin** — [File:Violin VL100.png](https://commons.wikimedia.org/wiki/File:Violin_VL100.png) by Just plain Bill; CC0 ([license](http://creativecommons.org/publicdomain/zero/1.0/deed.en))
+- **Whale** — [File:001 Humpback whale breaching in Ballena Marine National Park Photo by Giles Laurent.jpg](https://commons.wikimedia.org/wiki/File:001_Humpback_whale_breaching_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg) by Giles Laurent; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Xylophone** — [File:Nusa-Dua Bali Indonesia Xylophone-player-01.jpg](https://commons.wikimedia.org/wiki/File:Nusa-Dua_Bali_Indonesia_Xylophone-player-01.jpg) by CEphoto, Uwe Aranas; CC BY-SA 3.0 ([license](https://creativecommons.org/licenses/by-sa/3.0))
+- **Yoyo** — [File:Yo yo toy.jpg](https://commons.wikimedia.org/wiki/File:Yo_yo_toy.jpg) by ANBARASU THIRAVIYAM; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Zebra** — [File:Equus zebra hartmannae - Etosha 2015.jpg](https://commons.wikimedia.org/wiki/File:Equus_zebra_hartmannae_-_Etosha_2015.jpg) by Yathin S Krishnappa; CC BY-SA 4.0 ([license](https://creativecommons.org/licenses/by-sa/4.0))
+- **Spider-Man background photo** — [Close-up of a Spiderman Figurine Sitting on a Piece of Furniture](https://www.pexels.com/photo/close-up-of-a-spiderman-figurine-sitting-on-a-piece-of-furniture-20029622/) by Jo Seph; Pexels License (free to use).

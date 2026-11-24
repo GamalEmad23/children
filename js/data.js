@@ -1,0 +1,8 @@
+(() => {
+const arChars='ابتثجحخدذرزسشصضطظعغفقكلمنهوي'.split('');
+const arNames=['ألف','باء','تاء','ثاء','جيم','حاء','خاء','دال','ذال','راء','زاي','سين','شين','صاد','ضاد','طاء','ظاء','عين','غين','فاء','قاف','كاف','لام','ميم','نون','هاء','واو','ياء'];
+const arWords=['أسد','بطة','تفاحة','ثعلب','جمل','حصان','خبز','دب','ذرة','رمان','زرافة','سمكة','شمس','صقر','ضفدع','طائرة','ظرف','عنب','غزال','فراشة','قمر','كتاب','ليمون','موز','نحلة','هلال','وردة','يد'];
+const enWords=['Apple','Ball','Cat','Duck','Elephant','Fish','Grapes','Hat','Ice cream','Juice','Kite','Lion','Moon','Nest','Orange','Penguin','Queen','Rainbow','Sun','Tiger','Umbrella','Violin','Whale','Xylophone','Yoyo','Zebra'];
+const enSounds=['ay','buh','kuh','duh','eh','fuh','guh','huh','eye','juh','kuh','luh','muh','nuh','ah','puh','kwuh','ruh','sss','tuh','uh','vuh','wuh','ks','yuh','zzz'];
+window.LESSON_DATA={ar:arChars.map((letter,i)=>({letter,name:arNames[i],word:arWords[i],pronounce:letter,description:`${arWords[i]} تبدأ بحرف ${arNames[i]}.`,forms:[letter,letter,letter,letter]})),en:'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((letter,i)=>({letter,name:letter,lower:letter.toLowerCase(),word:enWords[i],sound:enSounds[i],description:`${enWords[i]} begins with ${letter}.` })),numbers:Array.from({length:20},(_,i)=>({n:i+1,en:['one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen','twenty'][i],ar:['واحد','اثنان','ثلاثة','أربعة','خمسة','ستة','سبعة','ثمانية','تسعة','عشرة','أحد عشر','اثنا عشر','ثلاثة عشر','أربعة عشر','خمسة عشر','ستة عشر','سبعة عشر','ثمانية عشر','تسعة عشر','عشرون'][i]}))};
+})();

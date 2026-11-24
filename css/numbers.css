@@ -1,0 +1,11 @@
+.number-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;width:100%;max-width:100%;align-items:stretch}
+.number-card{box-sizing:border-box;min-width:0;max-width:100%;overflow:hidden;border:0;border-radius:22px;padding:16px 12px;min-height:220px;display:flex;flex-direction:column;align-items:center;gap:4px;transition:transform .2s;box-shadow:var(--shadow)}
+.number-card:hover{transform:translateY(-4px)}
+.number-card>b{font-size:42px;line-height:1.1}
+.number-card>span:nth-child(2){font-weight:900}
+.number-card small{font-family:'Cairo';color:#647483}
+.count-dots{font-size:11px;color:#4ba779;margin-top:8px;min-height:18px;letter-spacing:1px}
+.count-objects{box-sizing:border-box;display:grid;grid-template-columns:repeat(5,22px);grid-auto-rows:22px;justify-content:center;align-content:start;gap:4px;margin:9px auto 0;width:100%;max-width:126px;min-height:22px;overflow:hidden}
+.count-objects img{display:block;box-sizing:border-box;width:22px!important;height:22px!important;max-width:22px;max-height:22px;object-fit:cover;border-radius:50%;background:#fff}
+@media(max-width:900px){.number-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}.number-card{min-height:210px}}
+@media(max-width:640px){.number-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.number-card{min-height:190px;padding:13px 9px}.number-card>b{font-size:38px}.count-objects{grid-template-columns:repeat(5,20px);grid-auto-rows:20px;max-width:116px;gap:3px}.count-objects img{width:20px!important;height:20px!important;max-width:20px;max-height:20px}}
