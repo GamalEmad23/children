@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600"><rect width="600" height="600" fill="#e8f6ff"/>
+<g fill="#fff" opacity=".9"><circle cx="110" cy="110" r="26"/><circle cx="140" cy="102" r="34"/><circle cx="480" cy="140" r="26"/><circle cx="512" cy="130" r="32"/></g>
+<path d="M60 310 Q60 90 300 90 Q540 90 540 310Z" fill="#e7353d"/>
+<path d="M300 90 Q190 120 180 310 L60 310 Q60 90 300 90Z" fill="#ffdf65"/><path d="M300 90 Q410 120 420 310 L540 310 Q540 90 300 90Z" fill="#2587d8"/>
+<path d="M300 90 Q250 140 252 310 L348 310 Q350 140 300 90Z" fill="#e7353d"/>
+<path d="M60 310 Q100 345 140 310 Q180 345 220 310 Q260 345 300 310 Q340 345 380 310 Q420 345 460 310 Q500 345 540 310" fill="none" stroke="#17345b" stroke-width="6"/>
+<rect x="291" y="310" width="18" height="190" fill="#17345b"/><path d="M300 500 Q300 560 250 560 Q215 560 215 525" fill="none" stroke="#17345b" stroke-width="18" stroke-linecap="round"/>
+<rect x="294" y="62" width="12" height="40" rx="6" fill="#17345b"/>
+<g fill="#2587d8"><path d="M100 420 q10 22 0 30 q-10 -8 0 -30z"/><path d="M180 470 q10 22 0 30 q-10 -8 0 -30z"/><path d="M470 430 q10 22 0 30 q-10 -8 0 -30z"/><path d="M520 500 q10 22 0 30 q-10 -8 0 -30z"/></g></svg>
