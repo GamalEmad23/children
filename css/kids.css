@@ -118,3 +118,20 @@ footer{position:relative;z-index:2}
 .game-feedback.correct,.math-feedback.correct{color:#188850}
 .choice.is-good,.math-answer.right-answer{background:#dcf8e9;border-color:#2fb36f;box-shadow:0 5px 0 #a1dfbd}
 .choice.is-oops{background:#ffe9ea;border-color:var(--hero-red);box-shadow:0 5px 0 #f4b6ba}
+
+/* nav v3: all 6 sections, bottom tab bar on phones */
+.nav-links a .ni{display:none}.nav-links a .nt em{display:none}.nav-links a .nt b{font:inherit}
+.nav-links{flex-wrap:nowrap}.nav-links a{white-space:nowrap}
+@media(max-width:1100px){.nav-links a{padding:9px 10px;font-size:15px;min-height:44px}.nav-links{gap:5px}}
+@media(max-width:820px){.nav-links a .nt b{display:none}.nav-links a .nt em{display:inline;font-style:normal;font-weight:900}.nav-links a{padding:9px 11px;font-size:15px}}
+@media(max-width:640px){
+ .nav-wrap{height:70px;overflow:hidden}.menu-toggle{display:none!important}
+ body{padding-bottom:84px}
+ .nav-links,.nav-links.open{display:grid!important;grid-template-columns:repeat(5,1fr);position:fixed;z-index:50;left:0;right:0;bottom:0;top:auto;gap:2px;padding:6px 4px calc(6px + env(safe-area-inset-bottom));background:#10284a;border:0;border-top:4px solid #ffdf65;border-radius:18px 18px 0 0;box-shadow:0 -6px 18px #10284a40;flex-direction:row}
+ .nav-links a{display:flex!important;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:60px;margin:0;padding:4px 1px;border:0;border-radius:12px;background:transparent;color:#fff;box-shadow:none;font-size:12px;transform:none!important}
+ .nav-links a .ni{display:block;font-size:22px;line-height:1;font-weight:900}
+ .nav-links a .nt b{display:none}.nav-links a .nt em{display:block;font-size:12px;line-height:1.1;font-weight:800}
+ .nav-links a.active{background:#ffdf65;color:#17345b;box-shadow:none}
+ .nav-links a:hover{background:#1f4f8f;color:#fff}.nav-links a.active:hover{background:#ffdf65;color:#17345b}
+ footer{padding-bottom:20px}
+}
