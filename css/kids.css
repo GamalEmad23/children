@@ -135,3 +135,13 @@ footer{position:relative;z-index:2}
  .nav-links a:hover{background:#1f4f8f;color:#fff}.nav-links a.active:hover{background:#ffdf65;color:#17345b}
  footer{padding-bottom:20px}
 }
+
+.fruit-name{font-family:Cairo,sans-serif;font-weight:800;font-size:15px;color:#647483;margin-top:auto}
+.animal-prompt{flex-direction:column;gap:14px}
+.animal-word{display:inline-flex;align-items:center;justify-content:center;gap:6px;font-family:Cairo,Nunito,sans-serif;font-size:56px;font-weight:900;line-height:1.2;color:#17345b}
+.animal-word .blank{font-style:normal;display:inline-flex;align-items:center;justify-content:center;min-width:64px;height:68px;border:4px dashed #e7353d;border-radius:16px;color:#e7353d;background:#fff4f4}
+.animal-word .blank.filled{border-style:solid;border-color:#58c98d;color:#1f9d63;background:#eafaf2}
+.animal-word b{font-weight:900}
+@media(max-width:640px){.animal-word{font-size:46px}.animal-word .blank{min-width:56px;height:58px}}
+.count-objects img{border-radius:0!important;object-fit:contain!important;background:transparent!important}
+.objects img{border-radius:0;box-shadow:none;object-fit:contain;width:54px;height:54px}
