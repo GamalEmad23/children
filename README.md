@@ -1,12 +1,12 @@
 # Horoofy Kids — حروفي
 
-A responsive, Arabic-first learning website for young children. Learn Arabic and English letters, count from 1 to 20, and practice with four interactive games.
+A responsive, Arabic-first learning website for young children. Learn Arabic and English letters, count from 1 to 30 with a different fruit for every number, and practice with five interactive games, including an Arabic animal missing-letter game.
 
 ## Features
 
 - 28 Arabic letters and 26 English letters with words, simple explanations, letter forms, search, and a learned filter.
 - Speech buttons for letter names and words, using the browser Web Speech API when available.
-- Numbers 1–20 with Arabic names and local spoken audio.
+- Numbers 1–30 with Arabic names and local spoken audio.
 - Four playable activities: match an Arabic letter, identify an English initial, count objects, and practice addition or subtraction.
 - Learning progress is saved locally in the browser.
 - Responsive layouts, RTL Arabic page, keyboard-friendly controls, reduced-motion support, and no account or personal data.
